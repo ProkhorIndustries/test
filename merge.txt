@@ -1,5 +1,2 @@
-<<<<<<< HEAD
 Hello world
 
-=======
->>>>>>> parent of fbf2411 (w rote world)
